@@ -1,0 +1,5 @@
+.git
+Sem1
+Sem1Task9.txt
+Sem2
+Sem2Task4.txt
